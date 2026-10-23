@@ -41,7 +41,8 @@ To ensure interoperability with regulatory knowledge graphs and Linked Open Voca
 Implementations of this interface must ensure that the `ptceAddress` injecting the claim is verified against the official PTCE Registry (ONCHAINID) and that the `_signature` matches the eIDAS 2.0 QES certificate fingerprint.
 ⚖️ License
 
-This repository, including the Physical Oracle Interface specification, ontologies, and smart contract code, is licensed under the **Business Source License 1.1 (BSL 1.1)**. 
+
+This repository, including the core smart contract implementation and documentation, is licensed under the **Business Source License 1.1 (BSL 1.1)**. 
 
 This license permits non-commercial academic research, testing, and commercial use ONLY for projects with a Total Value Locked (TVL) or appraised RWA value strictly under $5,000,000 USD. Any commercial production use exceeding this threshold requires a separate commercial license from Aurema Group LLC. 
 
